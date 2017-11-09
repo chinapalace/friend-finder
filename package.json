@@ -1,0 +1,28 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "dating app built with Node and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinapalace/friend-finder.git"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "Justin McLaren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chinapalace/friend-finder/issues"
+  },
+  "homepage": "https://github.com/chinapalace/friend-finder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.0"
+  }
+}
