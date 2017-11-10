@@ -23,8 +23,8 @@
 
 var friends = [
 	{
-	  "name":"Ahmed",
-	  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+	  "name":"Ringo",
+	  "photo":"https://i.pinimg.com/736x/6e/79/10/6e791046c6bcec3be16254177ccc24c9--ringo-starr-the-beatles.jpg",
 	  "scores":[
 	      5,
 	      1,
@@ -39,8 +39,8 @@ var friends = [
 	    ]
 	},
 	{
-	  "name":"Ahmed",
-	  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+	  "name":"George",
+	  "photo":"https://www.udiscovermusic.com/wp-content/uploads/2017/02/George-Harrison-Press-Image-2-530-web.jpg",
 	  "scores":[
 	      4,
 	      1,
@@ -55,8 +55,8 @@ var friends = [
 	    ]
 	},
 	{
-	  "name":"Ahmed",
-	  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+	  "name":"Bella",
+	  "photo":"https://www.usmagazine.com/wp-content/uploads/2017/10/screen-shot-2017-10-19-at-12-14-08-pm.png?w=593",
 	  "scores":[
 	      2,
 	      2,

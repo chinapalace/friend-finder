@@ -56,37 +56,20 @@
 	"buffers":
 	[
 		{
-			"file": ".gitignore",
-			"settings":
-			{
-				"buffer_size": 83,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "README.md",
-			"settings":
-			{
-				"buffer_size": 16,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "instructions.md",
-			"settings":
-			{
-				"buffer_size": 4236,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "app/routing/htmlRoutes.js",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 398,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/friendModel.js",
+			"settings":
+			{
+				"buffer_size": 37,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
@@ -94,38 +77,43 @@
 			"file": "app/public/survey.html",
 			"settings":
 			{
-				"buffer_size": 12596,
+				"buffer_size": 12804,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "app/public/home.html",
-			"settings":
-			{
-				"buffer_size": 1742,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "var bodyParser = require('body-parser');\nvar express = require('express');\nvar path = require('path');\n\nvar app = express();\nvar port = process.env.PORT || 3000;\n\napp.use(bodyParser.urlencoded({ extended: false }));\napp.use(bodyParser.json());",
 			"file": "server.js",
-			"file_size": 223,
-			"file_write_time": 131542200070000000,
 			"settings":
 			{
-				"buffer_size": 243,
+				"buffer_size": 528,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/justinmclaren/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+			"file": "app/data/friends.js",
 			"settings":
 			{
-				"buffer_size": 301,
+				"buffer_size": 1760,
 				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/routing/apiRoutes.js",
+			"settings":
+			{
+				"buffer_size": 957,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 674,
 				"line_ending": "Unix"
 			}
 		}
@@ -211,6 +199,10 @@
 	],
 	"file_history":
 	[
+		"/Users/justinmclaren/Desktop/Bootcamp/friend-finder/.gitignore",
+		"/Users/justinmclaren/Desktop/Bootcamp/friend-finder/README.md",
+		"/Users/justinmclaren/Desktop/Bootcamp/friend-finder/app/public/home.html",
+		"/Users/justinmclaren/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
 		"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs_Heroku/HandleBars/server.js",
 		"/Users/clayfudurich/Desktop/Bootcamp/Bamazon/index.js",
 		"/Users/clayfudurich/Desktop/Bootcamp/classwork/14-ExpressJs_Heroku/Seinfeld/server.js",
@@ -335,110 +327,24 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": ".gitignore",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 83,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								55,
-								55
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/zzz A File Icon zzz/aliases/Shell Script (Git).sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "README.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 16,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								16,
-								16
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "instructions.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4236,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 397.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "app/routing/htmlRoutes.js",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 398,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								105,
+								184
 							]
 						],
 						"settings":
@@ -449,57 +355,29 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "app/public/survey.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 12596,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								443,
-								443
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "app/public/home.html",
+					"buffer": 1,
+					"file": "app/models/friendModel.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1742,
+						"buffer_size": 37,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1367,
-								1720
+								37,
+								37
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -509,20 +387,48 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "server.js",
+					"buffer": 2,
+					"file": "app/public/survey.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 243,
+						"buffer_size": 12804,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								155,
-								155
+								10596,
+								11045
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3563.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 528,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								445,
+								445
 							]
 						],
 						"settings":
@@ -537,32 +443,89 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "/Users/justinmclaren/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+					"buffer": 4,
+					"file": "app/data/friends.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 301,
+						"buffer_size": 1760,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								295,
-								295
+								1742,
+								1749
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 103.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/routing/apiRoutes.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 957,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								417,
+								417
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 674,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (NPM).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
 					"type": "text"
 				}
 			]
